@@ -1,0 +1,28 @@
+    1  history
+    2  npm run dev
+    3  ls
+    4  ls -all
+    5  ls -lah
+    6  git log
+    7  git config
+    8  git config --global
+    9  git config --global user
+   10  git config user.email
+   11  git config user
+   12  git config user.name
+   13  git status
+   14  git add .gitignore
+   15  git status
+   16  git commit
+   17  git log
+   18  git status
+   19  git diff
+   20  git diff .gitignore
+   21  git status
+   22  git add .gitignore
+   23  git status
+   24  git commit --amend
+   25  git log
+   26  git log --stat
+   27  git log --oneline
+   28  history > historico.txt
