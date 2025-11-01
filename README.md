@@ -18,3 +18,9 @@ Dia 6 - Git e as diferenças entre o modo offline e remoto
 - Git Push
 - Fazendo commits de forma mais rápida
 - Git Push De Novo (mas agora com ainda mais "força")
+
+Dia 7 - começa a separar quem está na área de TI para ser um profissional valorizado
+- Client e Server
+- Hospedagem e Deploy
+- Fazendo novos Deploys
+- Encerramento do Desafio (Resultados de todo mundo)
