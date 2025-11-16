@@ -24,3 +24,19 @@ Dia 7 - começa a separar quem está na área de TI para ser um profissional val
 - Hospedagem e Deploy
 - Fazendo novos Deploys
 - Encerramento do Desafio (Resultados de todo mundo)
+
+Dia 8
+- Programação "Orgânica" versus "Impressora 3D"
+- Por que meus projetos sempre dão certo?
+
+Dia 9
+- Qual o “segredo” para organização de tarefas?
+- Como peitar projetos de qualquer tamanho?
+- Criando a primeira Milestone e Issues do Projeto
+
+Dia 10
+- Uma história macabra sobre "Estilização de Código"
+- Sincronização das configurações do Editor
+- Configurar o EditorConfig7xp
+- Configurar o Prettier15xp
+- 🎁 Extra: Configurar o Prettier Ignore5xp
